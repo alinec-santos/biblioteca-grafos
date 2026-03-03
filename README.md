@@ -13,7 +13,7 @@ Descrição: O trabalho consiste em projetar e implementar uma biblioteca que pe
 - [x] Realizar busca em profundidade (DFS)
 - [x] Determinar o número de componentes conexas
 - [x] Verificar a existência de ciclos
-- [x] Calcular a distância e o caminho mínimo entre vértices 
+- [x] Calcular a distância e o caminho mínimo entre vértices   
 Requisitos: Linguagem de programação C, Compilador GCC, Sistema de arquivos: A biblioteca deve ler grafos a partir de arquivos texto.  
 Compilação e Execução: Para compilar o código, execute:  
 **make all**  
@@ -28,7 +28,7 @@ Descrição: O trabalho consiste em expandir a biblioteca anterior com as seguin
 - [x] Escrever a árvore geradora mínima em arquivo com seu peso total
 - [x] Determinar uma cobertura mínima de vértices
 - [x] Determinar o emparelhamento máximo no grafo
-- [x] Calcular a centralidade de proximidade de um vértice
+- [x] Calcular a centralidade de proximidade de um vértice  
 Requisitos: Linguagem de programação C, Compilador GCC, Sistema de arquivos: A biblioteca deve ler grafos a partir de arquivos texto.  
 Compilação e Execução: Para compilar o código, execute:  
 **make all**  
